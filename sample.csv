@@ -1,0 +1,6 @@
+citizenship,gender,age,type_of_injury,event_location_region,ammunition,took_part_in_the_hostilities,date_of_event,place_of_residence
+Palestinian,Male,25,Shrapnel,Gaza Strip,Bullet,Yes,2023-10-01,Gaza City
+Israeli,Female,32,Burns,Tel Aviv,Missile,No,2023-11-12,Tel Aviv
+Palestinian,Female,19,None,West Bank,Bullet,No,2023-09-20,Ramallah
+Israeli,Male,45,Shrapnel,Jerusalem,Missile,Yes,2023-08-05,Jerusalem
+Palestinian,Male,28,Fracture,Gaza Strip,Bullet,Yes,2023-10-15,Khan Yunis
